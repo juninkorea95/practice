@@ -3,3 +3,4 @@
 1. css
 2. javascript 언어
 3. git 사용, 협업의 방법
+4. git bash 사용하는 법 
